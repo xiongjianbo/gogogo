@@ -1,0 +1,11 @@
+Package: curltool
+Version: 2017-12-15
+Section: free
+Priority: extra
+Depends: curl
+Suggests: Openssl
+Architecture: i386
+Installed-Size: 1kb
+Maintainer: i@89ge.cn
+Provides: kaleoz
+Description: just for test
